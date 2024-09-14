@@ -6,6 +6,10 @@ Welcome to the MeraStore e-commerce platform! This README provides an overview o
 
 MeraStore is a modern, scalable e-commerce platform built using microservices architecture. The platform is designed to be flexible, maintainable, and extensible, with separate services handling different aspects of the e-commerce experience.
 
+> ⚠️ **Warning: Self-Learning Project**
+>  <p>Please note that this project is intended solely as a self-learning exercise and is not meant for production use or as a commercial website. It is designed to serve as a testing ground for various techniques, methodologies, and approaches. The primary purpose of this project is to experiment and learn, and as such, it may not adhere to best practices or industry standards. <br><br>
+> The implementations and design choices are based on exploration and experimentation, and may or may not align with industry best practices or standards. This project should be used as a reference for educational purposes only. For any real-world applications, please adhere to established best practices and seek professional advice.
+
 ## Table of Contents
 
 1. [Features](#features)
