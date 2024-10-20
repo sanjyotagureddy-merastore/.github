@@ -137,7 +137,7 @@ Before you start, ensure you have the following installed:
 
 1. Download the script by right-clicking the link below and selecting **"Save link as..."**:
 
-   [Download setup-mera-store.ps1](https://gist.github.com/sanjyotagureddy/7a6f8959aacc1dc6112346a7db271846/raw/setup-mera-store.ps1)
+   [Download setup-mera-store.ps1](https://gist.github.com/sanjyotagureddy/7a6f8959aacc1dc6112346a7db271846/raw)
 
 2. Execute the downloaded script in PowerShell or CMD.
 
